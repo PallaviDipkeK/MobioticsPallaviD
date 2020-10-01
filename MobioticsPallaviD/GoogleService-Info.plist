@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1037392006826-7obtslpklmkfeol36eukaq4ksmrmafc4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1037392006826-7obtslpklmkfeol36eukaq4ksmrmafc4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAVxqZU1JOZ6AN73T9d9oo9oOghlfB3Hrk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1037392006826</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>pallavi.MobioticsPallaviD</string>
+	<key>PROJECT_ID</key>
+	<string>mobioticsdemo</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mobioticsdemo.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1037392006826:ios:13172c4e69bf1858dd0ad3</string>
+	<key>DATABASE_URL</key>
+	<string>https://mobioticsdemo.firebaseio.com</string>
+</dict>
+</plist>
